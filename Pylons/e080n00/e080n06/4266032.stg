@@ -1,0 +1,17 @@
+# pylons_e080n00_e080n06_4266032
+# do not edit below this line
+# Last Written Tue Feb  4 12:05:37 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04535 6.87396 15.87 247.662
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04403 6.87076 11.02 247.967
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04284 6.86777 11.32 248.585
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04034 6.86129 20.46 263.522
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04074 6.85851 24.64 278.146
+OBJECT_BUILDING_MESH_DETAILED e080n00_e080n06_4266032cables00021.ac 80.04284 6.86623 17.83 90
+# END pylons_e080n00_e080n06_4266032
+# pylons_e080n00_e080n06_4266040
+# do not edit below this line
+# Last Written Tue Feb  4 12:40:03 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 80.04535 6.87396 15.87 258.551
+# END pylons_e080n00_e080n06_4266040
